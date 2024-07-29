@@ -1,4 +1,4 @@
-# Applied ML: Decision Trees, Neural Networks, and Behavioral Cloning
+# Decision Trees, Neural Networks, and Behavioral Cloning
 
 A comprehensive project exploring decision trees, manually implemented neural networks, and behavioral cloning using Keras through practical implementations and analysis.
 
